@@ -1,28 +1,28 @@
 {
 	"music":[
 		{
-			"external":"https://notembin.github.io/games/fwb/music/title_screen_theme.ogg",
+			"external":"https://embinmc.github.io/games/fwb/music/title_screen_theme.ogg",
 			"name":"title_theme",
 			"loop":true
 		},
 		{
-			"external":"https://notembin.github.io/games/fwb/music/battle_theme.ogg",
+			"external":"https://embinmc.github.io/games/fwb/music/battle_theme.ogg",
 			"name":"battle",
 			"loop":true
 		},
 		{
-			"external":"https://notembin.github.io/games/fwb/music/challenger_music.ogg",
+			"external":"https://embinmc.github.io/games/fwb/music/challenger_music.ogg",
 			"name":"challenger_battle",
 			"loop":true,
 			"load_on_use":true
 		},
 		{
-			"external":"https://notembin.github.io/games/fwb/music/victory_music.ogg",
+			"external":"https://embinmc.github.io/games/fwb/music/victory_music.ogg",
 			"name":"victory",
 			"loop":true
 		},
 		{
-			"external":"https://notembin.github.io/games/fwb/music/scott_boss_battle.mp3",
+			"external":"https://embinmc.github.io/games/fwb/music/scott_boss_battle.mp3",
 			"name":"final_boss",
 			"loop":true,
 			"load_on_use":true
